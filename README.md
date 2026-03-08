@@ -2,8 +2,6 @@
 ### SRIP 2026 — AI for Health & Wellbeing
 
 > **Completed with AI assistance.**
-> Built with **Claude Sonnet 4.6** (Anthropic, 2025) for pipeline design, code generation, and report drafting. All training and results were executed locally by the student.
->
 > **Stack:** Python 3.13 · PyTorch · Scikit-learn · Pandas · NumPy · Matplotlib
 
 ---
